@@ -7,6 +7,6 @@
     ],
     "require": {
         "developermarius/simple-router": "5.1.0.15",
-        "phpmailer/phpmailer": "6.7"
+        "phpmailer/phpmailer": "6.8.1"
     }
 }
